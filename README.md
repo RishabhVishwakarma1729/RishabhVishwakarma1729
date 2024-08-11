@@ -39,5 +39,5 @@ Welcome to my GitHub profile! I'm a Mathematics graduate with a deep passion for
 
 ## 📬 Contact Details
 
-- **Email:** [rsbvishwa882@gmail.com](mailto:rsbvishwa882@gmail.com)
+- **Email:** [rsbvishwa88@gmail.com](mailto:rsbvishwa88@gmail.com)
 - **LinkedIn:** [Rishabh Vishwakarma](https://www.linkedin.com/in/rishabh-vishwakarma-a73a141b2/)
