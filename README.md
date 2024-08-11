@@ -33,7 +33,6 @@ Welcome to my GitHub profile! I'm a Mathematics graduate with a deep passion for
 
 ---
 
-
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[RishabhVishwakarma1729]&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&hide_border=true&theme=radical)
