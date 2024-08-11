@@ -20,8 +20,6 @@ Welcome to my GitHub profile! I'm a Mathematics graduate with a deep passion for
 **Data Visualization:**
 - ![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=flat&logo=matplotlib&logoColor=white)
 - ![Seaborn](https://img.shields.io/badge/Seaborn-9C66E0?style=flat&logo=seaborn&logoColor=white)
-
-- ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 - ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 **Databases:**
@@ -38,61 +36,15 @@ Welcome to my GitHub profile! I'm a Mathematics graduate with a deep passion for
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&hide_border=true&theme=radical)
-
-## 🏆 Achievements
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourGitHubUsername]&layout=compact&hide_title=true&hide_border=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[RishabhVishwakarma1729]&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&hide_border=true&theme=radical)
 
 ---
 
-## 🎓 Education & Experience
-
-**Mathematics Graduate**  
-[Your University/Institution]  
-[Graduation Year]
-
-**Mathematics Instructor**  
-[Institution Name]  
+**Mathematics Teacher**   
 [Years of Service: 3]
-- **Responsibilities:** Taught undergraduate mathematics to engineering students, covering topics such as [specific topics, e.g., calculus, linear algebra, differential equations].
-- **Achievements:** Developed comprehensive lesson plans and provided one-on-one tutoring, resulting in improved student understanding and performance.
-
-**[Current Position/Role]**  
-[Your Organization/Institution]  
-- **Responsibilities:** [Brief description of key responsibilities]
-- **Achievements:** [Brief description of key achievements]
-
-**[Previous Position/Role]**  
-[Previous Organization/Institution]  
-- **Responsibilities:** [Brief description of key responsibilities]
-- **Achievements:** [Brief description of key achievements]
-
----
-
-## 🌱 Currently Learning
-
-- **Advanced Deep Learning Techniques**
-- **Big Data Analytics**
-- **Data Engineering**
-
----
+- **Responsibilities:** Taught undergraduate mathematics to engineering students, covering topics such as calculus, linear algebra, differential equations, numerical analysis, etc.
 
 ## 📬 Contact Details
 
-For professional inquiries, collaboration opportunities, or to discuss any matters of interest, please do not hesitate to contact me through the following channels:
-
 - **Email:** [rsbvishwa882@gmail.com](mailto:rsbvishwa882@gmail.com)
 - **LinkedIn:** [Rishabh Vishwakarma](https://www.linkedin.com/in/rishabh-vishwakarma-a73a141b2/)
-- **Twitter:** [@yourusername](https://twitter.com/yourusername)
-
-I look forward to connecting with you.
-
----
-
-## 📝 Latest Blog Posts
-
-- **[Blog Post Title 1](link-to-blog-post):** "Deep Dive into Feature Engineering: Techniques and Best Practices."
-- **[Blog Post Title 2](link-to-blog-post):** "How to Build Interactive Dashboards with Python and Plotly."
-
----
