@@ -1,6 +1,6 @@
-# Hey, I am Rishabh
+# Hello everyone, this is rishabh 👋
 
-Welcome to my GitHub profile! I'm a Mathematics graduate with a deep passion for data science. Driven by curiosity and a quest for knowledge, I turn data into actionable insights and tackle complex problems with innovative solutions and cutting-edge technologies.
+I'm a Maths grad, with a strong focus on data science. I specialize in translating complex data into actionable insights, leveraging mathematical principles and advanced techniques.
 
 ---
 
@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm a Mathematics graduate with a deep passion for
 
 **Mathematics Teacher**   
 [Years of Service: 3]
-- **Responsibilities:** Taught undergraduate mathematics to engineering students, covering topics such as calculus, linear algebra, differential equations, numerical analysis, etc.
+- **Responsibilities:** Taught undergraduate mathematics to engineering students, covering topics like advanced calculus, linear algebra, differential equations, numerical analysis, etc.
 
 ## 📬 Contact Details
 
