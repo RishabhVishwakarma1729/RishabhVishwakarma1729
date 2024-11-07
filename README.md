@@ -19,6 +19,7 @@ I'm a Maths grad, with a strong focus on data science. I specialize in translati
 - [![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)](https://scipy.org/)
 - [![NLTK](https://img.shields.io/badge/NLTK-3C8C2A?style=flat&logo=nltk&logoColor=white)](https://www.nltk.org/)
 - [![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-FFD54F?style=flat&logo=python&logoColor=black)](https://www.crummy.com/software/BeautifulSoup/)
+- [![Requests](https://img.shields.io/badge/Requests-0074D9?style=flat&logo=python&logoColor=white)](https://docs.python-requests.org/)
 
 **Data Visualization:**
 - [![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=flat&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
