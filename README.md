@@ -15,12 +15,16 @@ I'm a Maths grad, with a strong focus on data science. I specialize in translati
 - [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
 - [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 - [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+- [![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)](https://keras.io/)
+- [![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)](https://scipy.org/)
 - [![NLTK](https://img.shields.io/badge/NLTK-3C8C2A?style=flat&logo=nltk&logoColor=white)](https://www.nltk.org/)
+- [![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-FFD54F?style=flat&logo=python&logoColor=black)](https://www.crummy.com/software/BeautifulSoup/)
 
 **Data Visualization:**
 - [![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=flat&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 - [![Seaborn](https://img.shields.io/badge/Seaborn-9C66E0?style=flat&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
 - [![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+- [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
 
 **Databases:**
 - [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
