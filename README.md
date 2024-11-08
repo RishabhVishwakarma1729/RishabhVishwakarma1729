@@ -42,6 +42,14 @@ I'm a Maths grad, with a strong focus on data science. I specialize in translati
 [Years of Service: 3]  
 - **Responsibilities:** Taught undergraduate mathematics to engineering students, covering topics like advanced calculus, linear algebra, differential equations, numerical analysis, etc.
 
+## 🚀 Explore My Work
+
+Check out my live projects and demos on Streamlit:
+
+[Rishabh's Streamlit Projects](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://share.streamlit.io/user/rishabhvishwakarma1729)
+
+---
+
 ## 📬 Contact Details
 
 - **Email:** [rsbvishwa88@gmail.com](mailto:rsbvishwa88@gmail.com)
