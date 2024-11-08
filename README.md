@@ -46,7 +46,9 @@ I'm a Maths grad, with a strong focus on data science. I specialize in translati
 
 Check out my live projects and demos on Streamlit:
 
-[Rishabh's Streamlit Projects](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://share.streamlit.io/user/rishabhvishwakarma1729)
+[![Streamlit Badge](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://share.streamlit.io/user/rishabhvishwakarma1729)
+
+- [Rishabh's Streamlit Projects](https://share.streamlit.io/user/rishabhvishwakarma1729)
 
 ---
 
