@@ -1,4 +1,3 @@
-```markdown
 # Hello everyone, this is Rishabh 👋
 
 I'm a Maths grad, with a strong focus on data science. I specialize in translating complex data into actionable insights, leveraging mathematical principles and advanced techniques.
