@@ -71,7 +71,6 @@ Aug 2024 – Jan 2025
 * 🔧 [Git](https://git-scm.com/)
 * 🐙 [GitHub](https://github.com/)
 
----
 
 ## Skill Network
 
