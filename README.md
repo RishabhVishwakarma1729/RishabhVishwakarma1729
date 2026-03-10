@@ -105,8 +105,6 @@ Machine Learning with Python — IBM
 
 ## 🌐 Connect
 
-💼 LinkedIn  
-https://www.linkedin.com/in/rishabh-vishwakarma1
+💼 [LinkedIn](https://www.linkedin.com/in/rishabh-vishwakarma1)
 
-✉ Email  
-mailto:rsbvishwa88@gmail.com
+✉ Email - [rsbvishwa88@gmail.com](mailto:rsbvishwa88@gmail.com)
