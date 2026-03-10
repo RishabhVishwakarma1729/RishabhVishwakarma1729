@@ -75,7 +75,7 @@ Aug 2024 – Jan 2025
 ## 🎓 Education
 
 **B.Sc. (Hons.) Mathematics**
-Ranchi University — First Division
+Ranchi University
 
 Relevant Coursework
 
@@ -104,6 +104,5 @@ Relevant Coursework
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: https://linkedin.com
-* 🐙 GitHub: https://github.com
-* ✉ Email: [rishabh@example.com](mailto:rishabh@example.com)
+* 💼 LinkedIn: www.linkedin.com/in/rishabh-vishwakarma1
+* ✉ Email: [rsbvishwa88@gmail.com](mailto:rsbvishwa88@gmail.com)
