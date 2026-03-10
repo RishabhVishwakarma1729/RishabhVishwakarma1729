@@ -73,35 +73,83 @@ Aug 2024 – Jan 2025
 
 ---
 
-## Skill Graph
+## Skill Network
 
 ```mermaid
-graph TD
+graph LR
 
-R[Rishabh Vishwakarma]
+%% Center Node
+R((Rishabh))
 
-R --> ML[Machine Learning]
-R --> SYS[Systems Engineering]
-R --> DATA[Data Science]
+%% Machine Learning Cluster
+ML[Machine Learning]
+ML1[PyTorch]
+ML2[TensorFlow]
+ML3[Scikit-Learn]
+ML4[Graph Neural Networks]
 
-ML --> PyTorch
-ML --> TensorFlow
-ML --> ScikitLearn
-ML --> GenerativeAI[Generative AI]
-ML --> GNN[Graph Neural Networks]
+%% Generative AI Cluster
+GEN[Generative AI]
+GEN1[Transformers]
+GEN2[RAG Systems]
+GEN3[FAISS]
+GEN4[LLM Applications]
 
-GenerativeAI --> RAG
-RAG --> FAISS
+%% Data Science Cluster
+DATA[Data Science]
+D1[Pandas]
+D2[NumPy]
+D3[Statistics]
+D4[Feature Engineering]
 
-SYS --> Django
-SYS --> Flask
-SYS --> Docker
-SYS --> Linux
+%% Systems Cluster
+SYS[Systems & Deployment]
+S1[Django]
+S2[Flask]
+S3[Docker]
+S4[Linux]
+S5[PostgreSQL]
 
-DATA --> Pandas
-DATA --> NumPy
-DATA --> Statistics
+%% Connections from center
+R --- ML
+R --- GEN
+R --- DATA
+R --- SYS
+
+%% ML connections
+ML --- ML1
+ML --- ML2
+ML --- ML3
+ML --- ML4
+
+%% GEN connections
+GEN --- GEN1
+GEN --- GEN2
+GEN --- GEN3
+GEN --- GEN4
+
+%% DATA connections
+DATA --- D1
+DATA --- D2
+DATA --- D3
+DATA --- D4
+
+%% SYS connections
+SYS --- S1
+SYS --- S2
+SYS --- S3
+SYS --- S4
+SYS --- S5
+
+%% Colors
+style R fill:#1f2937,color:#ffffff,stroke:#000
+
+style ML fill:#bbdefb,stroke:#1e88e5
+style GEN fill:#ffe0b2,stroke:#fb8c00
+style DATA fill:#c8e6c9,stroke:#43a047
+style SYS fill:#e1bee7,stroke:#8e24aa
 ```
+
 
 ## 🎓 Education
 
