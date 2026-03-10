@@ -73,6 +73,36 @@ Aug 2024 – Jan 2025
 
 ---
 
+## Skill Graph
+
+```mermaid
+graph TD
+
+R[Rishabh Vishwakarma]
+
+R --> ML[Machine Learning]
+R --> SYS[Systems Engineering]
+R --> DATA[Data Science]
+
+ML --> PyTorch
+ML --> TensorFlow
+ML --> ScikitLearn
+ML --> GenerativeAI[Generative AI]
+ML --> GNN[Graph Neural Networks]
+
+GenerativeAI --> RAG
+RAG --> FAISS
+
+SYS --> Django
+SYS --> Flask
+SYS --> Docker
+SYS --> Linux
+
+DATA --> Pandas
+DATA --> NumPy
+DATA --> Statistics
+```
+
 ## 🎓 Education
 
 **B.Sc. (Hons.) Mathematics**
