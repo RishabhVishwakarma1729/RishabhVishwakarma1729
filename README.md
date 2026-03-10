@@ -1,108 +1,112 @@
 # Rishabh Vishwakarma
 
-Machine Learning Engineer focused on building production-grade AI systems that deliver measurable business impact.
+Machine Learning Engineer building production-ready AI systems that solve real business problems.
 
-I specialize in designing end-to-end machine learning pipelines, optimizing models, and deploying scalable AI solutions. With a strong mathematical background, my work focuses on turning complex data into reliable, high-performance systems used in real-world applications.
+My work focuses on designing end-to-end machine learning pipelines, improving model performance, and deploying scalable AI systems. With a strong background in mathematics, I enjoy turning complex data into reliable, high-impact solutions used in real-world applications.
 
 ---
 
 ## 🧠 About Me
 
-* 🤖 Machine Learning Engineer with a background in Mathematics
-* ⚙️ Experienced in building end-to-end ML pipelines from experimentation to deployment
-* 📚 Strong interest in Generative AI, Retrieval Augmented Generation (RAG), and scalable AI systems
-* 📊 Focused on translating data and models into impactful production solutions
+- 🤖 Machine Learning Engineer with a strong foundation in mathematics  
+- ⚙️ Experienced in building and deploying end-to-end machine learning pipelines  
+- 📚 Interested in Generative AI, Retrieval-Augmented Generation (RAG), and scalable AI systems  
+- 📊 Focused on turning data and models into production-ready solutions  
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
-### Software Engineer – Machine Learning & Data Science
-
-**Growdea Technologies**
+### Software Engineer — Machine Learning & Data Science  
+**Growdea Technologies**  
 Apr 2025 – Present
 
-* ⚙️ Architected and deployed production-grade ML/AI systems using advanced preprocessing, feature engineering, statistical validation, and hyperparameter optimization.
-* 📈 Achieved **10–20% performance improvement** over baseline models.
-* 🌐 Built scalable inference services using **Django and Flask APIs**, containerized with **Docker**.
-* 🔎 Developed **Retrieval Augmented Generation (RAG)** pipelines using **FAISS-based semantic retrieval**.
-* 🧩 Designed model explainability frameworks to improve transparency and trust in predictive systems.
-* 🔄 Managed the **complete ML lifecycle**, from problem framing to deployment monitoring and optimization.
+- Designed and deployed production-grade ML and AI systems using advanced preprocessing, feature engineering, statistical validation, and hyperparameter optimization  
+- Improved model performance by **10–20% compared to baseline models**  
+- Built scalable inference services using **Django and Flask APIs**, containerized with **Docker**  
+- Developed **RAG pipelines** using **FAISS-based semantic retrieval**  
+- Implemented model explainability techniques to improve transparency and trust in predictions  
+- Managed the **full ML lifecycle**, from problem definition to deployment and monitoring  
 
 ---
 
-### Data Science Intern
-
-**Froyo Technologies**
+### Data Science Intern  
+**Froyo Technologies**  
 Aug 2024 – Jan 2025
 
-* 📊 Built a **Streamlit-based analytics dashboard** adopted by more than 20 stakeholders.
-* ⏱ Reduced manual reporting effort by **over 50%**.
-* 📈 Improved business reporting turnaround time through automated data insights.
+- Built a **Streamlit analytics dashboard** used by more than 20 stakeholders  
+- Reduced manual reporting work by **over 50%**  
+- Improved reporting speed by automating data insights and analysis  
 
 ---
 
 ## 🛠 Technical Skills
 
-### 🤖 Machine Learning & AI
+### Machine Learning & AI
 
-* 🐍 [Python](https://www.python.org/)
-* 🔢 [NumPy](https://numpy.org/)
-* 🐼 [Pandas](https://pandas.pydata.org/)
-* 📊 [Scikit-learn](https://scikit-learn.org/stable/)
-* 🔥 [PyTorch](https://pytorch.org/)
-* 🧠 [TensorFlow](https://www.tensorflow.org/)
-* ⚡ [Keras](https://keras.io/)
-* 🧬 [Graph Neural Networks](https://pytorch-geometric.readthedocs.io/)
-* ✨ [Generative Models](https://deepmind.google/discover/blog/generative-models/)
-* 🎯 [Reinforcement Learning](https://spinningup.openai.com/)
-* 🔎 [Retrieval Augmented Generation (RAG)](https://ai.meta.com/blog/retrieval-augmented-generation-streamlining-the-creation-of-intelligent-natural-language-processing-models/)
-* 📉 [Statistical Analysis & Hypothesis Testing](https://en.wikipedia.org/wiki/Statistical_hypothesis_testing)
-* ⚡ [Optuna](https://optuna.org/)
-* 🖥 [CUDA](https://developer.nvidia.com/cuda-zone)
+- 🐍 [Python](https://www.python.org/)  
+- 🔢 [NumPy](https://numpy.org/)  
+- 🐼 [Pandas](https://pandas.pydata.org/)  
+- 📊 [Scikit-learn](https://scikit-learn.org/stable/)  
+- 🔥 [PyTorch](https://pytorch.org/)  
+- 🧠 [TensorFlow](https://www.tensorflow.org/)  
+- ⚡ [Keras](https://keras.io/)  
+- 🧬 [Graph Neural Networks](https://pytorch-geometric.readthedocs.io/)  
+- ✨ [Generative Models](https://deepmind.google/discover/blog/generative-models/)  
+- 🎯 [Reinforcement Learning](https://spinningup.openai.com/)  
+- 🔎 [Retrieval-Augmented Generation (RAG)](https://ai.meta.com/blog/retrieval-augmented-generation-streamlining-the-creation-of-intelligent-natural-language-processing-models/)  
+- 📉 [Statistical Analysis & Hypothesis Testing](https://en.wikipedia.org/wiki/Statistical_hypothesis_testing)  
+- ⚡ [Optuna](https://optuna.org/)  
+- 🖥 [CUDA](https://developer.nvidia.com/cuda-zone)
 
-### ⚙️ Systems & Deployment
+---
 
-* 🌐 [Django](https://www.djangoproject.com/)
-* 🧪 [Flask](https://flask.palletsprojects.com/)
-* 📦 [Docker](https://www.docker.com/)
-* 🗄 [PostgreSQL](https://www.postgresql.org/)
-* 🐧 [Linux](https://www.kernel.org/)
-* 🔧 [Git](https://git-scm.com/)
-* 🐙 [GitHub](https://github.com/)
+### Systems & Deployment
 
+- 🌐 [Django](https://www.djangoproject.com/)  
+- 🧪 [Flask](https://flask.palletsprojects.com/)  
+- 📦 [Docker](https://www.docker.com/)  
+- 🗄 [PostgreSQL](https://www.postgresql.org/)  
+- 🐧 [Linux](https://www.kernel.org/)  
+- 🔧 [Git](https://git-scm.com/)  
+- 🐙 [GitHub](https://github.com/)
+
+---
 
 ## 🎓 Education
 
-**B.Sc. (Hons.) Mathematics**
+**B.Sc. (Hons.) Mathematics**  
 Ranchi University
 
-Relevant Coursework
+**Relevant Coursework**
 
-* 📐 Probability
-* 📊 Statistics
-* 📏 Linear Algebra
-* ➗ Calculus
+- 📐 Probability  
+- 📊 Statistics  
+- 📏 Linear Algebra  
+- ➗ Calculus  
 
 ---
 
 ## 📜 Certifications
 
-**Machine Learning with Python — IBM**
+Machine Learning with Python — IBM
 
 ---
 
 ## 🚀 Interests
 
-* 🤖 Applied Machine Learning
-* ✨ Generative AI Systems
-* ⚙️ AI Infrastructure
-* 📐 Mathematical Modeling
-* 📈 Scalable ML Systems
+- 🤖 Applied Machine Learning  
+- ✨ Generative AI Systems  
+- ⚙️ AI Infrastructure  
+- 📐 Mathematical Modeling  
+- 📈 Scalable ML Systems  
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
-* 💼 LinkedIn: www.linkedin.com/in/rishabh-vishwakarma1
-* ✉ Email: [rsbvishwa88@gmail.com](mailto:rsbvishwa88@gmail.com)
+💼 LinkedIn  
+https://www.linkedin.com/in/rishabh-vishwakarma1
+
+✉ Email  
+mailto:rsbvishwa88@gmail.com
