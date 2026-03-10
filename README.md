@@ -1,93 +1,110 @@
-# Hello everyone, this is Rishabh 👋
+# Rishabh Vishwakarma
 
+Machine Learning Engineer focused on building production-grade AI systems that deliver measurable business impact.
 
-
-I'm a Maths grad, with a strong focus on data science. I specialize in translating complex data into actionable insights, leveraging mathematical principles and advanced techniques.
-
-
+I specialize in designing end-to-end machine learning pipelines, optimizing models, and deploying scalable AI solutions. With a strong mathematical background, my work focuses on turning complex data into reliable, high-performance systems used in real-world applications.
 
 ---
 
+## 🧠 About Me
 
-
-## 🔧 Skills & Technologies
-
-
-
-**Programming Languages:**
-- [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-- [![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-
-
-
-**Libraries & Frameworks:**
-- [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-- [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
-- [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-- [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-- [![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)](https://keras.io/)
-- [![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)](https://scipy.org/)
-- [![NLTK](https://img.shields.io/badge/NLTK-3C8C2A?style=flat&logo=nltk&logoColor=white)](https://www.nltk.org/)
-- [![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-FFD54F?style=flat&logo=python&logoColor=black)](https://www.crummy.com/software/BeautifulSoup/)
-- [![Requests](https://img.shields.io/badge/Requests-0074D9?style=flat&logo=python&logoColor=white)](https://docs.python-requests.org/)
-
-
-
-**Data Visualization:**
-- [![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=flat&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
-- [![Seaborn](https://img.shields.io/badge/Seaborn-9C66E0?style=flat&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
-- [![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
-- [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
-
-
-
-**Databases:**
-- [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-
-
-
-**Development Tools:**
-- [![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
-- [![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-- [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
-
-
+* 🤖 Machine Learning Engineer with a background in Mathematics
+* ⚙️ Experienced in building end-to-end ML pipelines from experimentation to deployment
+* 📚 Strong interest in Generative AI, Retrieval Augmented Generation (RAG), and scalable AI systems
+* 📊 Focused on translating data and models into impactful production solutions
 
 ---
 
+## 💼 Professional Experience
 
+### Software Engineer – Machine Learning & Data Science
 
-**Mathematics Teacher**  
-[Years of Service: 3]  
-- **Responsibilities:** Taught undergraduate mathematics to engineering students, covering topics like advanced calculus, linear algebra, differential equations, numerical analysis, etc.
+**Growdea Technologies**
+Apr 2025 – Present
 
-
-
-## 🚀 Explore My Work
-
-
-
-Check out my live projects and demos on Streamlit:
-
-
-
-[![Streamlit Badge](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://share.streamlit.io/user/rishabhvishwakarma1729)
-
-
-
-- [Rishabh's Streamlit Projects](https://share.streamlit.io/user/rishabhvishwakarma1729)
-
-
+* ⚙️ Architected and deployed production-grade ML/AI systems using advanced preprocessing, feature engineering, statistical validation, and hyperparameter optimization.
+* 📈 Achieved **10–20% performance improvement** over baseline models.
+* 🌐 Built scalable inference services using **Django and Flask APIs**, containerized with **Docker**.
+* 🔎 Developed **Retrieval Augmented Generation (RAG)** pipelines using **FAISS-based semantic retrieval**.
+* 🧩 Designed model explainability frameworks to improve transparency and trust in predictive systems.
+* 🔄 Managed the **complete ML lifecycle**, from problem framing to deployment monitoring and optimization.
 
 ---
 
+### Data Science Intern
 
+**Froyo Technologies**
+Aug 2024 – Jan 2025
 
-## 📬 Contact Details
+* 📊 Built a **Streamlit-based analytics dashboard** adopted by more than 20 stakeholders.
+* ⏱ Reduced manual reporting effort by **over 50%**.
+* 📈 Improved business reporting turnaround time through automated data insights.
 
+---
 
+## 🛠 Technical Skills
 
-- **Email:** [rsbvishwa88@gmail.com](mailto:rsbvishwa88@gmail.com)
-- **LinkedIn:** [Rishabh Vishwakarma](https://www.linkedin.com/in/rishabh-vishwakarma-a73a141b2/)
- 
+### 🤖 Machine Learning & AI
+
+* 🐍 [Python](https://www.python.org/)
+* 🔢 [NumPy](https://numpy.org/)
+* 🐼 [Pandas](https://pandas.pydata.org/)
+* 📊 [Scikit-learn](https://scikit-learn.org/stable/)
+* 🔥 [PyTorch](https://pytorch.org/)
+* 🧠 [TensorFlow](https://www.tensorflow.org/)
+* ⚡ [Keras](https://keras.io/)
+* 🧬 [Graph Neural Networks](https://pytorch-geometric.readthedocs.io/)
+* ✨ [Generative Models](https://deepmind.google/discover/blog/generative-models/)
+* 🎯 [Reinforcement Learning](https://spinningup.openai.com/)
+* 🔎 [Retrieval Augmented Generation (RAG)](https://ai.meta.com/blog/retrieval-augmented-generation-streamlining-the-creation-of-intelligent-natural-language-processing-models/)
+* 📉 [Statistical Analysis & Hypothesis Testing](https://en.wikipedia.org/wiki/Statistical_hypothesis_testing)
+* ⚡ [Optuna](https://optuna.org/)
+* 🖥 [CUDA](https://developer.nvidia.com/cuda-zone)
+
+### ⚙️ Systems & Deployment
+
+* 🌐 [Django](https://www.djangoproject.com/)
+* 🧪 [Flask](https://flask.palletsprojects.com/)
+* 📦 [Docker](https://www.docker.com/)
+* 🗄 [PostgreSQL](https://www.postgresql.org/)
+* 🐧 [Linux](https://www.kernel.org/)
+* 🔧 [Git](https://git-scm.com/)
+* 🐙 [GitHub](https://github.com/)
+
+---
+
+## 🎓 Education
+
+**B.Sc. (Hons.) Mathematics**
+Ranchi University — First Division
+
+Relevant Coursework
+
+* 📐 Probability
+* 📊 Statistics
+* 📏 Linear Algebra
+* ➗ Calculus
+
+---
+
+## 📜 Certifications
+
+**Machine Learning with Python — IBM**
+
+---
+
+## 🚀 Interests
+
+* 🤖 Applied Machine Learning
+* ✨ Generative AI Systems
+* ⚙️ AI Infrastructure
+* 📐 Mathematical Modeling
+* 📈 Scalable ML Systems
+
+---
+
+## 🌐 Connect With Me
+
+* 💼 LinkedIn: https://linkedin.com
+* 🐙 GitHub: https://github.com
+* ✉ Email: [rishabh@example.com](mailto:rishabh@example.com)
